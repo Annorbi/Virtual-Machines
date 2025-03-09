@@ -15,7 +15,7 @@ In the search bar, type in "Virtual Machines". Click the "virtual machine" butto
 <img src="https://i.imgur.com/jkDDYDx.png" height="80%" width="80%"
 </p>
 <p>
-In the search bar, type in "Ressource Group".
+Afterwards, click on "Create' from the dropdown menu.
 </p>
 <br />
 
@@ -24,6 +24,6 @@ In the search bar, type in "Ressource Group".
 <img src="https://i.imgur.com/jkDDYDx.png" height="80%" width="80%"
 </p>
 <p>
-In the search bar, type in "Ressource Group".
+From the next screen, fill in the necessary information as shown above.
 </p>
 <br />
